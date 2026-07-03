@@ -22,8 +22,10 @@ A full-stack application for managing tasks with authentication, profile managem
 - **Utilities**: dotenv, nodemon
 - **Middleware**: Auth, Error handler, Request validator
 
----
+ 
 ##  Project Structure
+
+```text
 Task-Management-System/
 ├── client/              # React frontend
 ├── server/              # Node/Express backend
