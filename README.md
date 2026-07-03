@@ -23,7 +23,6 @@ A full-stack application for managing tasks with authentication, profile managem
 - **Middleware**: Auth, Error handler, Request validator
 
 ---
-
 ##  Project Structure
 Task-Management-System/
 ├── client/              # React frontend
@@ -37,9 +36,6 @@ Task-Management-System/
 ├── README.md
 ├── package.json         # Root package 
 └── .gitignore
-
-Code
-
 ---
 
 ##  Setup Instructions
